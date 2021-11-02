@@ -1,0 +1,17 @@
+14
+SportsComplex Siwaka 450
+Siwaka Phase1A 10
+Siwaka Phase1B 230
+Phase1B STC 50
+Phase1A  Phase1B 100
+Phase1A Madaraka 850
+Phase1B Phase2 112
+STC Phase2 50
+STC Parking Lot 250
+Phase2 Phase3 500
+Phase3 ParkingLot 350
+Phase2 J1 600
+J1 Madaraka 200
+Madaraka ParkingLot 450
+SportsComplex
+ParkingLot
